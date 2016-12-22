@@ -1,0 +1,19 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "Oakley's dotfiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohall/dotfiles.git"
+  },
+  "author": "Oakley Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohall/dotfiles/issues"
+  },
+  "homepage": "https://github.com/ohall/dotfiles#readme"
+}

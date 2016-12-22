@@ -1,0 +1,4 @@
+.packageignore
+*.log
+.git
+.npmrc
